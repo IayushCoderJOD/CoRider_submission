@@ -43,7 +43,7 @@ const ChatSection = () => {
     const observer = new IntersectionObserver(handleIntersection, {
       root: null,
       rootMargin: '0px',
-      threshold: 0.1, // Adjust this threshold as needed
+      threshold: 0.1, 
     });
 
     if (chatContainerRef.current) {
