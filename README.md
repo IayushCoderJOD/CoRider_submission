@@ -4,6 +4,12 @@
 
 # Live link - https://co-rider-submission.vercel.app/
 
+
+# tablet view
+
+![image](https://github.com/IayushCoderJOD/CoRider_submission/assets/86391985/893e646f-fcab-425a-902d-4bf7ff25fccd)
+
+
 # Iphone 12 view in brave
 
 ![image](https://github.com/IayushCoderJOD/CoRider_submission/assets/86391985/2ddade06-852f-490b-8410-a80063594342)
